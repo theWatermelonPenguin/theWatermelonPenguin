@@ -9,7 +9,7 @@ I code, I break things, and sometimes, I fix them.
 - You cant contact me at 201404847+theWatermelonPenguin@users.noreply.github.com
 
 ## 🚀 Current Project
-- [Terminal Builder](https://github.com/theWatermelonPenguin/cool-web-thing): A web app for making web things cooler.
+- [Terminal Builder](https://github.com/theWatermelonPenguin/Terminal-Builder): An NPM package used to build terminals.
 
 ## 🌱 Currently Learning
 - Rust

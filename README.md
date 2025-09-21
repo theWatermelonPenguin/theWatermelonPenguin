@@ -1,22 +1,21 @@
 # theWatermelonPenguin
 
-Hi! I’m the penguin guy.  
-I code, I break things, and sometimes, I fix them.  
-🍉 Fueled by watermelon and curiosity.
-
-- 🧩 I like building stuff that makes life easier (or at least, more interesting)
-- 🐧 Favorite animal: Guess.
+Hi! I’m the penguin guy (the watermelon one to be specific).  
+- I am awesome
+- I believe penguins are the most ultimate animal to ever walk this earth (or waddle this earth)
+- I like building stuff that makes life easier (or at least, more interesting)
+- Favorite animal: Guess.
 - You cant contact me at 201404847+theWatermelonPenguin@users.noreply.github.com
 
-## 🚀 Current Project
-- [Terminal Builder](https://github.com/theWatermelonPenguin/Terminal-Builder): An NPM package used to build terminals.
+## Current Project
+- NOTHING!!!!!!
 
-## 🌱 Currently Learning
+## Currently Learning
 - Rust
-- More JSX
+- Express.js
 - Why watermelon is so good
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![theWatermelonPenguin's GitHub stats](https://github-readme-stats.vercel.app/api?username=theWatermelonPenguin&show_icons=true&theme=dracula)
 
 ## 🛠️ Skills & Tools
@@ -27,8 +26,5 @@ I code, I break things, and sometimes, I fix them.
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
 
-> If you found this profile, congrats—you’re now 1% more awesome.
+> If you found this profile, you must be very awesome!
 
-```
-Tip: PRs and issues are always welcome, as long as you bring snacks.
-```

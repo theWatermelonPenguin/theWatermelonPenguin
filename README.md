@@ -12,8 +12,6 @@ Hi! I’m the penguin guy (the watermelon one to be specific).
 
 ## Currently Learning
 - Rust
-- Express.js
-- Why watermelon is so good
 
 ## GitHub Stats
 ![theWatermelonPenguin's GitHub stats](https://github-readme-stats.vercel.app/api?username=theWatermelonPenguin&show_icons=true&theme=dracula)

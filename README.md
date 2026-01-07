@@ -22,5 +22,4 @@ Hi! I’m the penguin guy (the watermelon one to be specific).
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
 
-> If you found this profile, you must be very awesome!
 

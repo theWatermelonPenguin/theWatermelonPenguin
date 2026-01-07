@@ -3,7 +3,6 @@
 Hi! I’m the penguin guy (the watermelon one to be specific).  
 - I am awesome
 - I believe penguins are the most ultimate animal to ever walk this earth (or waddle this earth)
-- I like building stuff that makes life easier (or at least, more interesting)
 - Favorite animal: Guess.
 - You cant contact me at 201404847+theWatermelonPenguin@users.noreply.github.com
 
